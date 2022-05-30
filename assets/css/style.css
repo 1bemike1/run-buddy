@@ -241,13 +241,21 @@ section {
     background: #024e76;   
 }
 
+.section-title {
+    font-size: 55px;
+    color:#024e76;
+    margin-bottom: 35px;
+    padding: 0 100px 20px 100px;
+    display: inline-block;
+    border-bottom: 3px solid;
+}
 .secondary-border {
     font-size: 55px;
     display: inline-block;
     padding: 0 100px 20px 100px;
-    border-bottom: 3px none;
     margin-bottom: 35px;
     color: #fce138;
+    border-color: #39a6b2;
 }
 
 /* HERO STYLES END */
