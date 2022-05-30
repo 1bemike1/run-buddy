@@ -275,8 +275,12 @@ section {
     font-style: normal;
 }
 
-.contact-info a {
+.contact-header {
     color: #fce138;
+}
+
+#reach-out p, #reach-out address {
+    color: white;
 }
 /* REACH OUT STYLES END */
 
