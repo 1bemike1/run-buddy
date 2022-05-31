@@ -250,8 +250,9 @@ section {
 }
 
 .contact-info iframe {
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
+    float: left;
 }
 
 .contact-info div {
@@ -269,7 +270,6 @@ section {
 }
 
 .contact-info p, .contact-info address {
-    margin: 20px 0;
     line-height: 1.5;
     font-size: 20px;
     font-style: normal;
@@ -281,6 +281,13 @@ section {
 
 #reach-out p, #reach-out address {
     color: white;
+    padding: 40px;
+    width: 60%;
 }
+
+.email {
+    color: #fce138  ;
+}
+
 /* REACH OUT STYLES END */
 
