@@ -239,20 +239,9 @@ section {
     color: #fce138;
 }
 
-
-.secondary-border {
-    font-size: 55px;
-    display: inline-block;
-    padding: 0 100px 20px 100px;
-    margin-bottom: 35px;
-    color: #fce138;
-    border-color: #39a6b2;
-}
-
 .contact-info iframe {
-    width: 300px;
-    height: 300px;
-    float: left;
+    width: 400px;
+    height: 400px;
 }
 
 .contact-info div {
@@ -264,12 +253,13 @@ section {
     color: white;
 }
 
-.contact-info h3 {
+.contact-info .contact-header {
     color: #fce138;
     font-size: 32px;
 }
 
 .contact-info p, .contact-info address {
+    margin: 20px;
     line-height: 1.5;
     font-size: 20px;
     font-style: normal;
@@ -281,8 +271,6 @@ section {
 
 #reach-out p, #reach-out address {
     color: white;
-    padding: 40px;
-    width: 60%;
 }
 
 .email {
