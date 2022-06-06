@@ -131,7 +131,6 @@ section {
     color: #39a6b2;
     width: 80%;
     font-size: 20px;
-    /* add this alongside your other declarations */
     margin: 0 auto;
 }
 
@@ -169,7 +168,6 @@ section {
     color: #024e76;
     margin-bottom: 35px;
     padding: 0 100px 20px 100px;
-    
     display: inline-block;
     border-bottom: 3px solid;
 }
@@ -253,7 +251,7 @@ section {
     color: white;
 }
 
-.contact-info .contact-header {
+.contact-info h3 {
     color: #fce138;
     font-size: 32px;
 }
@@ -265,19 +263,8 @@ section {
     font-style: normal;
 }
 
-.contact-header {
+.contact-info a {
     color: #fce138;
-}
-
-#reach-out p, #reach-out address {
-    color: white;
-}
-
-.email {
-    color: #fce138  ;
-}
-.test{
-   margin: 0;
 }
 
 /* REACH OUT STYLES END */
